@@ -106,8 +106,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2024 Modul Ajar PJOK Kelas 3 - Kurikulum Merdeka</p>
-        <p>created bye: Miftahul Huda</p>
+    <p>&copy; 2024 Modul Ajar PJOK Kelas 3 - Kurikulum Merdeka // created bye: Miftahul Huda</p>
 </footer>
 
 </body>
