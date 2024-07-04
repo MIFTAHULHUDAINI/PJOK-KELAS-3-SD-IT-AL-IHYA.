@@ -52,7 +52,7 @@
 
 <header>
     <h1>Modul Ajar PJOK Kelas 3 SD IT AL IHYA KALIREJO</h1>
-    <p>Kurikulum Merdeka</p>
+    <p>Pertemuan Ke 1&2 // Kurikulum Merdeka</p>
     <P>Guru Mapel: MIFTAHUL HUDA</P>
 </header>
 
