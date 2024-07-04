@@ -65,7 +65,7 @@
 
 <div id="home" class="content">
     <h2>Halaman Utama</h2>
-    <p>Selamat datang di modul ajar PJOK kelas 3. Di sini, kalian akan belajar tentang berbagai materi yang menyenangkan dan bermanfaat untuk kesehatan dan kebugaran tubuh.</p>
+    <p>Selamat datang di modul ajar PJOK kelas 3. Di sini, kita akan belajar tentang berbagai materi yang menyenangkan dan bermanfaat untuk kesehatan dan kebugaran tubuh.</p>
 </div>
 
 <div id="tujuan" class="content">
@@ -106,7 +106,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2024 Modul Ajar PJOK Kelas 3 - Kurikulum Merdeka // created bye: Miftahul Huda</p>
+    <p>&copy; 2024 Modul Ajar PJOK Kelas 3 - Kurikulum Merdeka // created by: Miftahul Huda</p>
 </footer>
 
 </body>
